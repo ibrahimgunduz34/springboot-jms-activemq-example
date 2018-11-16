@@ -1,0 +1,4 @@
+jms:
+  listener_container_factory:
+    max_message_per_task: 100
+    concurrency: 1
